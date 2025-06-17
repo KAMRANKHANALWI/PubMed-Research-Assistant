@@ -44,7 +44,7 @@ This assistant specializes in **biomedical and life sciences research** by searc
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/KAMRANKHANALWI/PubMed-Research-Assistant
+   git clone https://github.com/yourusername/pubmed-research-assistant.git
    cd pubmed-research-assistant
    ```
 
@@ -168,7 +168,7 @@ You: Get details about immunotherapy papers from 2024
 - **Purpose**: Search for biomedical papers by a specific researcher
 - **Input**: Author name (automatically cleans titles like "Dr.", "Prof.")
 - **Output**: List of PubMed IDs and basic information
-- **Example**: `search_papers_by_author("Dr. Gitanjali Yadav")`
+- **Example**: `search_papers_by_author("Dr. Gitanjali")`
 
 #### `search_paper_by_title(title: str)`
 
