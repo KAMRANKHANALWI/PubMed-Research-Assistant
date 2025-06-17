@@ -168,7 +168,7 @@ You: Get details about immunotherapy papers from 2024
 - **Purpose**: Search for biomedical papers by a specific researcher
 - **Input**: Author name (automatically cleans titles like "Dr.", "Prof.")
 - **Output**: List of PubMed IDs and basic information
-- **Example**: `search_papers_by_author("Dr. Gitanjali")`
+- **Example**: `search_papers_by_author("Dr. Gitanjali Yadav")`
 
 #### `search_paper_by_title(title: str)`
 
