@@ -44,7 +44,7 @@ This assistant specializes in **biomedical and life sciences research** by searc
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/pubmed-research-assistant.git
+   git clone https://github.com/KAMRANKHANALWI/PubMed-Research-Assistant
    cd pubmed-research-assistant
    ```
 
